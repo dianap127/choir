@@ -1,0 +1,226 @@
+# <!=Copyright (C) 2023 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Consulting Coach 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/consulting-coach\n"
+"POT-Creation-Date: 2023-06-28 08:54:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:51
+msgid "Banner Section"
+msgstr ""
+
+#: functions.php:84
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:85
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:107
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:108
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:131
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:132
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:154
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:155
+msgid "Secondary color of the theme."
+msgstr ""
+
+#: functions.php:166 functions.php:187
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:188
+msgid "Choose the layout of the header for your site."
+msgstr ""
+
+#: functions.php:211 functions.php:292
+msgid "%1$sClick here%2$s to configure header layout settings"
+msgstr ""
+
+#: functions.php:229
+msgid "Header Getting Started Button"
+msgstr ""
+
+#: functions.php:251
+msgid "Header Getting Started Link"
+msgstr ""
+
+#: functions.php:272
+msgid "Open in new tab"
+msgstr ""
+
+#: functions.php:273
+msgid "Enable to open the link in a new tab."
+msgstr ""
+
+#: functions.php:311
+msgid "Banner Options"
+msgstr ""
+
+#: functions.php:312
+msgid "Choose banner as static image/video or as a slider."
+msgstr ""
+
+#: functions.php:315
+msgid "Disable Banner Section"
+msgstr ""
+
+#: functions.php:316
+msgid "Static/Video Newsletter Banner"
+msgstr ""
+
+#: functions.php:317
+msgid "Banner as Slider"
+msgstr ""
+
+#: functions.php:318
+msgid "Static/Video CTA Banner"
+msgstr ""
+
+#: functions.php:338
+msgid "Subtitle"
+msgstr ""
+
+#: functions.php:363
+msgid "Title"
+msgstr ""
+
+#: functions.php:388
+msgid "Description"
+msgstr ""
+
+#: functions.php:413
+msgid "Banner Label"
+msgstr ""
+
+#: functions.php:437
+msgid "Banner Link"
+msgstr ""
+
+#: functions.php:458
+msgid "Banner Image Alignment"
+msgstr ""
+
+#: functions.php:459
+msgid "Choose alignment for banner image."
+msgstr ""
+
+#: functions.php:461
+msgid "Left"
+msgstr ""
+
+#: functions.php:462
+msgid "Right"
+msgstr ""
+
+#: functions.php:483
+msgid "Open Banner link in new tab"
+msgstr ""
+
+#: functions.php:484
+msgid "Enable to open  banner link in new tab."
+msgstr ""
+
+#: functions.php:613
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:705
+msgid " Consulting Coach | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:707
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:707
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Consulting Coach"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/wordpress-themes/consulting-coach/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Consulting Coach is a free coaching WordPress theme designed to assist "
+"coaches, mentors, therapists, speakers, leaders, counselors, copywriters, "
+"course creators, medical practitioners, and entrepreneurs in generating "
+"more leads. This theme allows you to create a professional website to "
+"promote your services and introduce yourself to potential clients. It "
+"includes sections such as a banner with a call-to-action, about, services, "
+"testimonials, call-to-actions, a newsletter sign-up, and an Instagram feed "
+"to help market your business. It is also compatible with WooCommerce and "
+"works well with LMS plugins like LearnDash and TutorLMS. The theme is "
+"optimized for SEO and has a fast loading time to improve your site's "
+"ranking. Additionally, it is translation-ready, schema-friendly, and RTL "
+"script-ready. Check demo at "
+"https://blossomthemes.com/theme-demo/?theme=consulting-coach, documentation "
+"at https://docs.blossomthemes.com/blossom-coach/, and get support at "
+"https://blossomthemes.com/support-ticket/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:733
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:734
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:735
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""

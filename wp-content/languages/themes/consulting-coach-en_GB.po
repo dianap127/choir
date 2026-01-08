@@ -1,0 +1,204 @@
+# Translation of Themes - Consulting Coach in English (UK)
+# This file is distributed under the same license as the Themes - Consulting Coach package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-14 11:20:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Consulting Coach\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Consulting Coach is a free coaching WordPress theme designed to assist coaches, mentors, therapists, speakers, leaders, counselors, copywriters, course creators, medical practitioners, and entrepreneurs in generating more leads. This theme allows you to create a professional website to promote your services and introduce yourself to potential clients. It includes sections such as a banner with a call-to-action, about, services, testimonials, call-to-actions, a newsletter sign-up, and an Instagram feed to help market your business. It is also compatible with WooCommerce and works well with LMS plugins like LearnDash and TutorLMS. The theme is optimized for SEO and has a fast loading time to improve your site's ranking. Additionally, it is translation-ready, schema-friendly, and RTL script-ready. Check demo at https://blossomthemes.com/theme-demo/?theme=consulting-coach, documentation at https://docs.blossomthemes.com/blossom-coach/, and get support at https://blossomthemes.com/support-ticket/"
+msgstr "Consulting Coach is a free coaching WordPress theme designed to assist coaches, mentors, therapists, speakers, leaders, counselors, copywriters, course creators, medical practitioners, and entrepreneurs in generating more leads. This theme allows you to create a professional website to promote your services and introduce yourself to potential clients. It includes sections such as a banner with a call-to-action, about, services, testimonials, call-to-actions, a newsletter sign-up, and an Instagram feed to help market your business. It is also compatible with WooCommerce and works well with LMS plugins like LearnDash and TutorLMS. The theme is optimised for SEO and has a fast loading time to improve your site's ranking. Additionally, it is translation-ready, schema-friendly, and RTL script-ready. Check demo at https://blossomthemes.com/theme-demo/?theme=consulting-coach, documentation at https://docs.blossomthemes.com/blossom-coach/, and get support at https://blossomthemes.com/support-ticket/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Consulting Coach"
+msgstr "Consulting Coach"
+
+#: functions.php:735
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:734
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:733
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:707
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:707
+msgid " Powered by %s"
+msgstr " Powered by %s"
+
+#: functions.php:705
+msgid " Consulting Coach | Developed By "
+msgstr " Consulting Coach | Developed By "
+
+#: functions.php:613
+msgid "Mobile"
+msgstr "Mobile"
+
+#: functions.php:484
+msgid "Enable to open  banner link in new tab."
+msgstr "Enable to open  banner link in new tab."
+
+#: functions.php:483
+msgid "Open Banner link in new tab"
+msgstr "Open Banner link in new tab"
+
+#: functions.php:462
+msgid "Right"
+msgstr "Right"
+
+#: functions.php:461
+msgid "Left"
+msgstr "Left"
+
+#: functions.php:459
+msgid "Choose alignment for banner image."
+msgstr "Choose alignment for banner image."
+
+#: functions.php:458
+msgid "Banner Image Alignment"
+msgstr "Banner Image Alignment"
+
+#: functions.php:437
+msgid "Banner Link"
+msgstr "Banner Link"
+
+#: functions.php:413
+msgid "Banner Label"
+msgstr "Banner Label"
+
+#: functions.php:388
+msgid "Description"
+msgstr "Description"
+
+#: functions.php:363
+msgid "Title"
+msgstr "Title"
+
+#: functions.php:338
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: functions.php:318
+msgid "Static/Video CTA Banner"
+msgstr "Static/Video CTA Banner"
+
+#: functions.php:317
+msgid "Banner as Slider"
+msgstr "Banner as Slider"
+
+#: functions.php:316
+msgid "Static/Video Newsletter Banner"
+msgstr "Static/Video Newsletter Banner"
+
+#: functions.php:315
+msgid "Disable Banner Section"
+msgstr "Disable Banner Section"
+
+#: functions.php:312
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Choose banner as static image/video or as a slider."
+
+#: functions.php:311
+msgid "Banner Options"
+msgstr "Banner Options"
+
+#: functions.php:273
+msgid "Enable to open the link in a new tab."
+msgstr "Enable to open the link in a new tab."
+
+#: functions.php:272
+msgid "Open in new tab"
+msgstr "Open in new tab"
+
+#: functions.php:251
+msgid "Header Getting Started Link"
+msgstr "Header Getting Started Link"
+
+#: functions.php:229
+msgid "Header Getting Started Button"
+msgstr "Header Getting Started Button"
+
+#: functions.php:211 functions.php:292
+msgid "%1$sClick here%2$s to configure header layout settings"
+msgstr "%1$sClick here%2$s to configure header layout settings"
+
+#: functions.php:188
+msgid "Choose the layout of the header for your site."
+msgstr "Choose the layout of the header for your site."
+
+#: functions.php:166 functions.php:187
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: functions.php:155
+msgid "Secondary color of the theme."
+msgstr "Secondary colour of the theme."
+
+#: functions.php:154
+msgid "Secondary Color"
+msgstr "Secondary Colour"
+
+#: functions.php:132
+msgid "Primary color of the theme."
+msgstr "Primary colour of the theme."
+
+#: functions.php:131
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: functions.php:108
+msgid "Secondary font of the site."
+msgstr "Secondary font of the site."
+
+#: functions.php:107
+msgid "Secondary Font"
+msgstr "Secondary Font"
+
+#: functions.php:85
+msgid "Primary font of the site."
+msgstr "Primary font of the site."
+
+#: functions.php:84
+msgid "Primary Font"
+msgstr "Primary Font"
+
+#: functions.php:51
+msgid "Banner Section"
+msgstr "Banner Section"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:706
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/wordpress-themes/consulting-coach/"
+msgstr "https://blossomthemes.com/wordpress-themes/consulting-coach/"
