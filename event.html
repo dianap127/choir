@@ -375,6 +375,23 @@
             font-size: 1.5em;
             line-height: 1.6;
         }
+
+        /** Future events custom */
+        /* Featured event layout */
+        .event-info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: start;
+        }
+
+        /* Row for smaller events */
+        .event-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 30px;
+        }
+
     </style>
     <link rel='stylesheet' id='blossom-coach-css'
         href='/wp-content/themes/blossom-coach/style.css?ver=6.5.5' type='text/css'
@@ -631,12 +648,12 @@
                 <div class="wrapper">
 
                     <div id="primary" class="content-area">
+                        <section class="future-events">
                         <h2 class="wp-block-heading">Future Events</h2>
-                        <div class="events-future">
-
+                        <div class="event-featured">
                             <article id="post-12"
                                 class="post-12 post type-post status-publish format-standard has-post-thumbnail hentry category-future-events grid-sizer"
-                                itemscope="" itemtype="https://schema.org/Blog" style="width: calc(50% - 20px);">
+                                itemscope="" itemtype="https://schema.org/Blog">
                                 <figure class="post-thumbnail"><a><img
                                             width="540" height="400" src="/wp-content/uploads/2024/02/spring-540x400.jpeg"
                                             class="attachment-blossom-coach-latest size-blossom-coach-latest wp-post-image" alt="" itemprop="image"
@@ -647,26 +664,32 @@
                                             <a>Rossini's 'Messe Solennelle' - 80th Anniversary celebration</a>
                                         </h3>
                                     </header>
-                                    <div class="entry-content" itemprop="text">
-                                        <p>Friday March 27th at 8 PM in St John's church.</p>
-                                        <p>Guest soloists:</p>
-                                        <ul>
-                                            <li>Katy Lees (soprano)</li>
-                                            <li>Helena Cooke (contralto)</li>
-                                            <li>James Botcher (tenor)</li>
-                                            <li>James Bartlett (bass)</li>
-                                        </ul>
-                                        <p>Admission £12 00 at door.</p>
-                                        <p>Interval refreshments</p>
-                                        <p>Easter raffle</p>
-                                    </div><!-- .entry-content -->
+                                    <div class="event-info-grid">
+                                        <div>
+                                            <p>Friday March 27th at 8 PM in St John's church.</p>
+                                            <p>Admission £12 00 at door.</p>
+                                            <p>Interval refreshments</p>
+                                            <p>Easter raffle</p>
+                                        </div>
+                                        <div>
+                                            <p>Guest soloists:</p>
+                                            <ul>
+                                                <li>Katy Lees (soprano)</li>
+                                                <li>Helena Cooke (contralto)</li>
+                                                <li>James Botcher (tenor)</li>
+                                                <li>James Bartlett (bass)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                     <footer class="entry-footer">
                                     </footer><!-- .entry-footer -->
                                 </div><!-- .article-content-wrap -->
                             </article>
+                        </div>
+                        <div class="event-row">
                             <article id="post-13"
                                 class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-past-events grid-sizer"
-                                itemscope="" itemtype="https://schema.org/Blog" style="width: calc(50% - 20px);">
+                                itemscope="" itemtype="https://schema.org/Blog">
                                 <figure class="post-thumbnail"><img width="540" height="400"
                                         src="/wp-content/uploads/2024/06/flowercrown-540x400.jpeg"
                                         class="attachment-blossom-coach-latest size-blossom-coach-latest wp-post-image"
@@ -681,7 +704,7 @@
                             </article>
                             <article id="post-14"
                                 class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-past-events grid-sizer"
-                                itemscope="" itemtype="https://schema.org/Blog" style="width: calc(50% - 20px);">
+                                itemscope="" itemtype="https://schema.org/Blog">
                                 <figure class="post-thumbnail"><img width="540" height="400"
                                         src="/wp-content/uploads/2024/09/autumn2024-540x400.jpeg"
                                         class="attachment-blossom-coach-latest size-blossom-coach-latest wp-post-image"
@@ -695,13 +718,15 @@
                                 </div>
                             </article>
                         </div>
+                        </div>
+                        </section>
                         <hr class="divider"/>
                         <h2 class="wp-block-heading">Past Events</h2>
                         <main id="main" class="site-main"
                             style="display: flex;flex-wrap: wrap;justify-content: space-around;">
                             <article id="post-11"
                                 class="post-11 post type-post status-publish format-standard has-post-thumbnail hentry category-future-events grid-sizer"
-                                itemscope="" itemtype="https://schema.org/Blog" style="width: calc(50% - 20px);">
+                                itemscope="" itemtype="https://schema.org/Blog">
                                 <figure class="post-thumbnail"><a><img
                                             width="540" height="400" src="/wp-content/uploads/2024/02/autmn-540x400.jpeg"
                                             class="attachment-blossom-coach-latest size-blossom-coach-latest wp-post-image" alt="" itemprop="image"
